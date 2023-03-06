@@ -1,0 +1,11 @@
+.cat,.dog,.dragone {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1rem;
+    color: #FFF;
+  }
+  .dog {
+    color: #000;
+  }
+  .dragon {
+    color: #009933;
+  }
