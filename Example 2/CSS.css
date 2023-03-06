@@ -1,0 +1,16 @@
+.greetings {
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+  }
+  
+  .greetings.english {
+    background-color: #000;
+    color: #FFF;
+  }
+  .greetings.spanish {
+    background-color: #FFF;
+    color: #000;
+  }
+
+  /* Because it is the only way to edit it like this 
+  and they have different contents */
